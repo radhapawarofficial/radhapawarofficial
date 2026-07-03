@@ -1,5 +1,5 @@
 # Hi, I'm Radha 👋
-🎓 Final-year BCA student (2023–2026) | Data Analytics enthusiast
+🎓 Final-year BCA student (2023–2026) | Data Analytics
 📊 I turn messy, real-world business data into clean, decision-ready dashboards
 
 ## Tools I work with 🔧
