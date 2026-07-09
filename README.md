@@ -1,5 +1,5 @@
 # Hi, I'm Radha 👋
-🎓 Final-year BCA student (2023–2026) | Data Analytics
+Data Analytics
 📊 I turn messy, real-world business data into clean, decision-ready dashboards
 
 ## Tools I work with 🔧
@@ -16,15 +16,15 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
 ## Featured Projects 📌
-- <strong>SmartCV</strong> — Django-based ATS resume builder providing suggestions to improve the ATS score 🔗
 - <strong>Retail Sales Performance Dashboard</strong> — Excel PivotTables/PivotCharts dashboard tracking sales, growth & regional performance 🔗
 - <strong>Power BI</strong> — 21-day applied Power BI project covering data transform, data modeling, DAX & dashboard design 🔗
 
 ## Certifications 📜
-- Power BI (SkillCourse)
-- Excel
 - Forage Job Simulation — TATA GenAI Data Analytics
 - Forage Job Simulation — Deloitte Data Analytics
+- Power BI (SkillCourse)
+- Excel
+
 
 ## Let's connect 📫
 - Email: radhapawarofficial@gmail.com
