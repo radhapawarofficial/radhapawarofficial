@@ -23,7 +23,7 @@ Data Analytics
 - Forage Job Simulation — TATA GenAI Data Analytics
 - Forage Job Simulation — Deloitte Data Analytics
 - Power BI
-- Excel
+- Microsoft Excel
 
 ## Let's connect 📫
 - Email: radhapawarofficial@gmail.com
