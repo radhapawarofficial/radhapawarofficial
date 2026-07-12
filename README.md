@@ -17,14 +17,13 @@ Data Analytics
 
 ## Featured Projects 📌
 - <strong>Retail Sales Performance Dashboard</strong> — Excel PivotTables/PivotCharts dashboard tracking sales, growth & regional performance 🔗
-- <strong>Power BI</strong> — 21-day applied Power BI project covering data transform, data modeling, DAX & dashboard design 🔗
+- <strong>Power BI</strong> — Moblie Sales Dashboard project covering data transform, data modeling, DAX & dashboard design 🔗
 
 ## Certifications 📜
 - Forage Job Simulation — TATA GenAI Data Analytics
 - Forage Job Simulation — Deloitte Data Analytics
-- Power BI (SkillCourse)
+- Power BI
 - Excel
-
 
 ## Let's connect 📫
 - Email: radhapawarofficial@gmail.com
