@@ -118,7 +118,7 @@ I am a BCA student with a robust foundation in <strong>Data Analytics</strong> .
     *   [Live Demo](https://smartcv-ats-friendly-resume-builder.onrender.com)
 *   <strong>Baisahukam.29</strong> – E-commerce Platform
     *   Full-stack platform with Firebase, Authentication, and CRUD admin dashboard.
-    *   [View Repository](https://radhapawar01.github.io/baisahukam.29-Rajputi-Poshaks-Jewellerys/)
+    *   [Live Demo](https://radhapawar01.github.io/baisahukam.29-Rajputi-Poshaks-Jewellerys/)
 
 ---
 
