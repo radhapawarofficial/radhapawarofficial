@@ -1,8 +1,8 @@
 # RADHA PAWAR 👋
 <strong>Data Analyst</strong>
 
-Maharashtra, India | <strong>+91 9322189337</strong> | <strong>radhapawarofficial@gmail.com</strong>
-[LinkedIn](https://linkedin.com/in/radhapawar01) | [GitHub](https://github.com/radhapawarofficial)
+Maharashtra, India | <strong>radhapawarofficial@gmail.com</strong>
+[LinkedIn](https://linkedin.com/in/radhapawar01)
 
 ---
 
@@ -13,7 +13,6 @@ I am a BCA student with a robust foundation in <strong>Data Analytics</strong> .
 
 ### <strong>Technical Toolbox</strong>
 
----
 <div class="table-responsive"> 
     <table class="table table-striped table-hover"> 
         <thead class="table-light"> 
