@@ -150,7 +150,64 @@ I am a BCA student with a robust foundation in <strong>Data Analytics</strong> .
     </table> 
 </div>
 
+---
 
+<div class="table-responsive"> 
+    <table class="table table-striped table-hover"> 
+        <thead class="table-light"> 
+            <tr> 
+                <th scope="col">Category</th> 
+                <th scope="col">Technologies & Tools</th> 
+            </tr> 
+        </thead> 
+        <tbody> 
+            <tr> 
+                <th scope="row"><strong>Data Analytics & BI</strong></th> 
+                <td>
+                    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
+                    <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel">
+                    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+                    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+                    <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+                    <img src="https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib">
+                    <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white" alt="Seaborn">
+                </td> 
+            </tr> 
+            <tr> 
+                <th scope="row"><strong>Web Development</strong></th> 
+                <td>
+                    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django">
+                    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
+                    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind">
+                    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+                    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+                    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS">
+                </td> 
+            </tr> 
+            <tr> 
+                <th scope="row"><strong>Databases</strong></th> 
+                <td>
+                    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white" alt="SQL">
+                    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+                    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite">
+                    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+                    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase">
+                </td> 
+            </tr> 
+            <tr> 
+                <th scope="row"><strong>Tools & Platforms</strong></th> 
+                <td>
+                    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+                    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+                    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code">
+                    <img src="https://img.shields.io/badge/MS_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" alt="MS Office">
+                </td> 
+            </tr> 
+        </tbody> 
+    </table> 
+</div>
+
+---
 ### <strong>Professional Experience</strong>
 
 <strong>Data Science with Python Expert Intern | Skill India Digital Government (Henry Harvin)</strong>
