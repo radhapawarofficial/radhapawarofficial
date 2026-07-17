@@ -1,7 +1,7 @@
 # RADHA PAWAR 👋
 <strong>Data Analyst</strong>
 
-Maharashtra, India | <strong>radhapawarofficial@gmail.com</strong>
+Maharashtra, India | <strong>radhapawarofficial@gmail.com</strong> |
 [LinkedIn](https://linkedin.com/in/radhapawar01)
 
 ---
